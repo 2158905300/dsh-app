@@ -1,5 +1,19 @@
 # DeepSeek Harness 分享试验版 0.4.7-alpha
 
+> ## ⚠️ 免责声明 / DISCLAIMER
+>
+> **本项目处于 alpha 测试阶段，仅供测试与学习使用，不提供任何形式的担保。**
+>
+> - 尚未在干净设备上完成首次安装验证，可能出现安装失败、无法启动、环境损坏等情况；
+> - 首次安装会在手机上编译依赖，耗时较长，可能因网络、机型或内核限制而失败；
+> - 使用本项目的风险由使用者自行承担，作者不对任何直接或间接损失负责（包括但不限于设备故障、数据丢失、账号或环境损坏）；
+> - 请勿在存有重要数据、唯一登录态或生产环境的设备上安装，升级前务必备份；
+> - 本项目与 DeepSeek 官方无关，包内不含任何官方密钥，使用者需自行准备 API Key；
+> - 分发或二次修改时请保留本声明与 GPL-3.0 许可证。
+>
+> **This project is in alpha and for testing/learning only. Use at your own risk.** It has not been verified on a clean device, may fail to install or start, and comes with NO WARRANTY of any kind. The author is not liable for any direct or indirect damage, including device failure or data loss. Not affiliated with DeepSeek; no official keys are bundled. Keep this notice and the GPL-3.0 license when redistributing.
+
+
 面向 ARM64、Android 11 及以上的单 APK 试验包。它把聊天界面、Termux 基础 bootstrap、首次环境安装向导、模型配置入口、相册/文件选择、无障碍手机工具与专用浏览器合在一个 App 里。首次安装会联网下载 Node、DSH 和编译依赖；这是在线初始化包，不是完全离线运行包。模型推理也需要联网和使用者自己的 API Key。
 
 **目前未在干净安卓设备上完成首次安装验证。请先小范围测试，不要当作正式通用版本发布。**
