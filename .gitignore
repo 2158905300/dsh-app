@@ -1,0 +1,8 @@
+build/
+keystore/
+tools/*.jar
+*.apk
+*.zip
+upstream/*.apk
+upstream/*.zip
+*.idsig

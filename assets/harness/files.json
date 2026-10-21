@@ -1,0 +1,21 @@
+{
+  "LICENSE-installer.txt": "82e2f10ebcd67ca3d9379a77d7eaf1c0e3a6e4af54b9fa0a4fb58bc72499ef9e",
+  "PHONE-SKILL.md": "88afda38782240a8bbf2d9989ae20957c680ccaf057a38a4902402ecf8f36946",
+  "browser-plugin/cordis.patch.yml": "8df912603e6adcf71d5acbed3602fc7b75c045975afa4cd612015d2c764f8852",
+  "browser-plugin/index.js": "fce64b0f8ed54fcf784122a17d6592c79c9a014e98edc2945e723127816360e1",
+  "browser-plugin/package.json": "62c2afbf79adab95f7737c9b50803d9086a649c2de914264820b6c42e0c43a55",
+  "configure-runtime.cjs": "bcbcfe6f5523d8b2b7e93b13509a6742dedca158c66d95ec6450cc8432d380bb",
+  "daemonize.sh": "80552c3d3515230d709325c41f9e08434d8923d4449cfc69715b54ed20c5eec7",
+  "fix-session-import.cjs": "abd36c37160f0d900783f77e28e8ecf862b18107aa3de44f516caa8c16a49385",
+  "install-dsh-reviewed.sh": "3e2a74f184855cf0af779c04b7edbfdc5049bc4392e0a06d41b31c1c044ef79e",
+  "install.sh": "0772ef893e0bbeaf7de9de07b6f7a6d0b041dc81145fa3062e9c6855ea82a883",
+  "is-running.cjs": "9dd26af2950cbdf4c2ec0f6ae551f302dbe634abd07e4cfa972d87ae132926be",
+  "npm-repository.sh": "5fdfbc5d84b86fa62e0bca3f9672d2a1ec078a6af854145d40657c28cd6f1933",
+  "patch-android-flock.cjs": "d1ee22e48d956513178c7516805fe545c997c8ed0bc4d02a8eda1792fcd0c5c1",
+  "patch-android-sandbox.cjs": "9b4af5407e4fb54e7b4c9326fa0d67268e40398225e4cf30691986f8658933b9",
+  "patch-builtin-loader.cjs": "f462e94aab89c51ed17960726e9cf669eaead5823f7250423d0a924136a0cb8d",
+  "phone.cjs": "b03d52027af257aa749f683c14bd976fdbd805e707301a896294bec5a4015e68",
+  "repository.sh": "b6a93c82b09af4821f34953c9dce59331e352c2a4abf6a88a70b618e20a0556b",
+  "sandbox-mode.sh": "e71d583ea232489fe18eeea28304889e6cd486b14e327ebcbecde323278be658",
+  "start.sh": "44767f905df92227ebee2ba22f45777d7d4f65e253b119a1970e8aa60d20208c"
+}
